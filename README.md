@@ -2,7 +2,7 @@
 ## a sample based texture synthesizer coded in Max for Live. <br />
 
 ## Video
-To see what it does, have a look over [here](https://youtu.be/azWQjQDmVE0?t=30).
+To see what this audio plugin does, have a look over [here](https://youtu.be/azWQjQDmVE0?t=30).
 
 ## Where to start?
 This repository consists of the M4L Device source code. <br />
