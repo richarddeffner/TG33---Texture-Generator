@@ -2,12 +2,11 @@
 ## a sample based texture synthesizer coded in Max for Live. <br />
 
 ## Video
+This repository consists of the M4L Device source code. <br />
+With the intuitive user interface you're able to create interesting soundscapes. <br />
 To see what this audio plugin does, have a look over [here](https://youtu.be/azWQjQDmVE0?t=30).
 
 ## Where to start?
-This repository consists of the M4L Device source code. <br />
-With the intuitive user interface you're able to create interesting soundscapes. <br />
-
 *"You're about to enter an exciting new world of vector synthesis combining sample playback and tone generation. Vector synthesis allows you to create and control synthesized sound with unprecedented ease - in a very intimate, "human" way, putting you more closely in touch with your music. [...] The more you use the TG33, the more [...] it will become an indispensable part of your musical repertoire."* <br /> (Yamaha TG33 Manual)  <br />
 
 ## Requirements
