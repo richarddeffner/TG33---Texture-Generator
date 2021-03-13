@@ -12,7 +12,7 @@ To see what this audio plugin does, have a look over [here](https://youtu.be/azW
 ## Requirements
 In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
-## Using TG33 with Live
+## TG33 with Live
 TG33 was created to be used with Midi Controllers, after completing the following steps,<br /> 
 hit *strg/cmd + m* in Live to see the MIDI enabled parameters of the device.
 
