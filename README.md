@@ -1,5 +1,5 @@
 # TG33 - Texture Generator 
-## a sample based texture synthesizer coded in Max for Live. <br />
+## a sample based texture synthesizer coded in Max for Live (M4L). <br />
 
 ## Video
 This repository consists of the M4L Device source code. <br />
