@@ -10,15 +10,14 @@ With the intuitive user interface you're able to create interesting soundscapes.
 
 *"You're about to enter an exciting new world of vector synthesis combining sample playback and tone generation. Vector synthesis allows you to create and control synthesized sound with unprecedented ease - in a very intimate, "human" way, putting you more closely in touch with your music. [...] The more you use the TG33, the more [...] it will become an indispensable part of your musical repertoire."* (Yamaha TG33 Manual)  <br />
 
-### Requirements
+## Requirements
 In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
-### Using TG33 with Live
+## Using TG33 with Live
 TG33 was created to be used with Midi Controllers, after completing the following steps,<br /> 
 hit *strg/cmd + m* in Live to see the MIDI enabled parameters of the device.
 
-This is how to get going:
-
+### This is how to get going:
 1. Download ZIP.
 2. Unpack ZIP.
 3. Copy the whole folder to any directory visible for Live.
