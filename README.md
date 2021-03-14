@@ -5,7 +5,7 @@
 This repository consists of the M4L's source code in addition with other needed files. <br />
 In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
-* Max 7: device folder for use with Max 7.3.5 and Live 9  <br />
+* Max 7: device folder for use with Max 7 and Live 9  <br />
 * Max 8: device folder for use with Max 8 and Live 11  <br />
 
 *"You're about to enter an exciting new world of vector synthesis combining sample playback and tone generation. Vector synthesis allows you to create and control synthesized sound with unprecedented ease - in a very intimate, "human" way, putting you more closely in touch with your music. [...] The more you use the TG33, the more [...] it will become an indispensable part of your musical repertoire."*  *(Yamaha TG33 Manual)* <br />
