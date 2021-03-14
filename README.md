@@ -3,6 +3,7 @@
 
 ## Where to start?
 This repository consists of the M4L's source code in addition with other needed files. <br />
+In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
 * Max 7: device folder for use with Max 7.3.5 and Live 9  <br />
 * Max 8: device folder for use with Max 8 and Live 11  <br />
@@ -12,10 +13,6 @@ This repository consists of the M4L's source code in addition with other needed 
 ## Video
 
 To see what this audio plugin does, have a look over [here](https://youtu.be/azWQjQDmVE0?t=30).
-
-## Requirements
-
-In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
 ## Using TG33 with Live
 
