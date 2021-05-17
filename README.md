@@ -5,9 +5,6 @@
 This repository consists of the M4L's source code in addition with other needed files. <br />
 In order to use the **TG33** you need a [Max for Live](https://www.ableton.com/de/live/max-for-live/) licence and [Live](https://www.ableton.com/de/live/).
 
-* Max 7: device folder for use with Max 7 and Live 9  <br />
-* Max 8: device folder for use with Max 8 and Live 11  <br />
-
 *"You're about to enter an exciting new world of vector synthesis combining sample playback and tone generation. Vector synthesis allows you to create and control synthesized sound with unprecedented ease - in a very intimate, "human" way, putting you more closely in touch with your music. [...] The more you use the TG33, the more [...] it will become an indispensable part of your musical repertoire."*  *(Yamaha TG33 Manual)* <br />
 
 ## Video
@@ -24,4 +21,4 @@ hit *strg/cmd + m* in Live to see the MIDI enabled parameters of the device.
 2. Unpack
 3. Copy the whole folder to any directory visible for Live.
 4. From within Live: drag *TG33.amxd* file on Audio/MIDI track.
-5. Enjoy playing around and creating new, interesting textures!
+5. Explore and create new interesting textures!
